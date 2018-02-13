@@ -56,8 +56,5 @@ The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but t
 - Spotify NPM Package - https://www.npmjs.com/package/spotify
 - Request NPM Package - https://www.npmjs.com/package/request
 
-## Prerequisites
-```
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-```
+
 
