@@ -1,7 +1,8 @@
 # LIRI-Bot
 
 Week 10 Assignment
-![bot](https://user-images.githubusercontent.com/30742763/36162003-407878bc-10b3-11e8-8220-efe7709ab4f2.png)
+
+![bot](https://user-images.githubusercontent.com/30742763/36162163-a763727a-10b3-11e8-9571-5a87c0ce4775.png)
 
 The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in command through Language vs Speech. LIRI is a command line node app that takes in parameters and returns data based on one of four commands:
 
